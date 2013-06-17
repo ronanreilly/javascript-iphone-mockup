@@ -1,0 +1,108 @@
+/* Cascade ALL */
+/* FIX ALL */
+
+
+body{
+
+}
+
+.container{
+    border: solid 1px black;
+    width: 960px;
+    height: 840px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    padding: 2em;
+}
+
+.menu_holder{
+    width: 200px;
+    float: left;
+    border: 1px solid black;
+    padding: 1em;
+}
+
+#bin_holder{
+    width: 173px;
+    float: right;
+    height: 795px;
+}
+
+#phone_holder{
+    margin-left: 280px;
+    margin-right: 260px;
+    height:795px;
+}
+
+.menu_leftCol{
+    float: left;
+}
+
+.menu_rightCol{
+    float: right;
+}
+
+
+.header{
+    margin-bottom: 15px;
+}
+
+#unCheckedBox{  
+    padding-left: 30px;
+    margin-bottom: 7px;
+    z-index: 100;
+}
+
+#checkedBox{
+     padding-left: 15px;
+     margin-bottom: 7px;
+      z-index: 100;
+}
+
+#switch{
+    margin-bottom: 7px;
+     z-index: 100;
+}
+
+#slider{
+    z-index: 100;
+}
+
+#picker{
+    margin-bottom: 7px;
+     z-index: 20;
+}
+
+#divided_picker{
+    margin-bottom: 7px;
+     z-index: 20;
+}
+
+#keyboard{
+    margin-bottom: 7px;
+     z-index: 20;
+}
+
+#text_field{
+    margin-bottom: 7px;
+     z-index: 50;
+}
+
+#table_start{
+    margin-bottom: 7px;
+     z-index: 50;
+}
+
+#table_middle{
+    margin-bottom: 7px;
+     z-index: 50;
+}
+
+#table_end{
+    margin-bottom: 7px;
+    z-index: 50 ;
+}
+
+
+
